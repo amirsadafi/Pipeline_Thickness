@@ -1,5 +1,5 @@
 # Pipeline_Thickness
-"""
+
 Pipeline Sizing: Engineering Procedure
 
 This Python script implements a pipeline sizing algorithm based on an engineering flowchart. 
