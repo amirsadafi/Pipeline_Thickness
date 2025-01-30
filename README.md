@@ -1,4 +1,4 @@
-# Pipeline_Thickness
+# Pipeline Sizing & Thickness Calculation
 
 Pipeline Sizing: Engineering Procedure
 
